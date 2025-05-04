@@ -19,5 +19,5 @@ git push -u origin main
 push
 
 git add .
-git commit -m"git pushtry1"
+git commit -m"git pushtry6"
 git push
